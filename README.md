@@ -1,3 +1,2 @@
-# DenimProjects
-This is my first Git Repository. <br>
-Author - Denim.
+# Coffee Shop Sales
+Created an Excel file to organize and analyze transaction records for Maven Roasters, a fictitious coffee shop with three locations in NYC. The dataset includes transaction date, timestamp, location, and detailed product-level information for each sale, providing insights into sales patterns and product preferences across locations. This file enables effective tracking and management of transaction data.
